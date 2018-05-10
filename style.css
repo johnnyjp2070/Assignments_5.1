@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+  background: linear-gradient(to top, yellow , lightyellow);
+}
+header {
+  width: 140px;
+  height: 70px;
+  background-color: blue;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  border-radius: 50%;
+}
+
